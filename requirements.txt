@@ -1,0 +1,12 @@
+langgraph==1.2.12
+langchain==1.4.2
+langchain-core==1.6.4
+langchain-google-genai==4.4.0
+langchain-tavily==0.2.18
+streamlit==1.64.0
+python-dotenv==1.2.2
+ipykernel
+pandas 
+numpy
+matplotlib
+seaborn
